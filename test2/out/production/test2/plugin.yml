@@ -1,0 +1,5 @@
+name: test2
+version: 1.0
+author: Arthur
+main: com.arthur.test2.test2
+api-version: 1.16
