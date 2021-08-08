@@ -1,0 +1,7 @@
+name: test4
+version: 1.0
+author: Arthur
+main: com.arthur.test4.test4
+api-version: 1.16
+commands:
+  createnpc:
